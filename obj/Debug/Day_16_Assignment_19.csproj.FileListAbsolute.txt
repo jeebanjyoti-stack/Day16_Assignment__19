@@ -1,0 +1,8 @@
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\bin\Debug\Day_16_Assignment_19.exe.config
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\bin\Debug\Day_16_Assignment_19.exe
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\bin\Debug\Day_16_Assignment_19.pdb
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\obj\Debug\Day_16_Assignment_19.csproj.AssemblyReference.cache
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\obj\Debug\Day_16_Assignment_19.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\obj\Debug\Day_16_Assignment_19.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\obj\Debug\Day_16_Assignment_19.exe
+D:\C# Programme\Day-16\Day_16_Assignment_19\Day_16_Assignment_19\obj\Debug\Day_16_Assignment_19.pdb
